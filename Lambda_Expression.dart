@@ -16,7 +16,7 @@ void main() {
   Function findDivision =
       (int num1, int num2) => print("Division : ${num1 / num2}");
 
-  //calling lambda function
+//calling lambda function
   addTwoNumbers(5, 10);
   print("Multiplication : ${multiplyByfour(6)}");
   findDivision(10, 5);
