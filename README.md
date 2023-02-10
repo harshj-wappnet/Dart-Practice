@@ -4,10 +4,10 @@
   This repository contain all dart code practices.
 
 ## Language Used
-  - JAVA
+  - Dart
   
 ### IDE Used 
-  - IntelliJ IDEA IDE
+  - VS Code
 
 
 
